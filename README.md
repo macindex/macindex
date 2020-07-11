@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 ![profile-desc](https://i.imgur.com/2h34dxu.jpg "profile-desc")
 
-##**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+##**[View Live Preview](https://macindex.github.io/claudio-holanda.github.io/)**
+
+
 
 
 
