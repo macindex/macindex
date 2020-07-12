@@ -18,7 +18,30 @@ Here are some ideas to get you started:
 
 # Profile resume
 
- is a resume and CV theme for. This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+ Front-end / Back-end web development and mobile technologies, currently course Analysis and systems development.
+
+Technician in computer networks by Uninassau and Technician in Information Technology by Readut.
+
+Below are some of my main skills.
+
+Web development:
+* HTML 5
+* CSS 3
+* Javascript
+* ReactJS
+* Typescript
+* GraphQL
+
+* MySQl
+* mongodb
+* postGres
+
+
+Other technologies:
+
+* Node.js
+
+Open to new opportunities and exchange of information, get in touch.
 
 ## Preview
 
