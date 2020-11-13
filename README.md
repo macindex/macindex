@@ -1,8 +1,22 @@
 ### Claudio Holanda 👋
 
+## Hi there 👋
+
+I'm Claudio, and my focus is to be a programmer that can code complex systems and beat good challenges.
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/)
+
+[![GitHub followers](https://img.shields.io/github/followers/macindex.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/macindex?tab=followers)
+
+![macindex github stats](https://github-readme-stats.vercel.app/api?username=macindex&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)
+
+- 🔭 I’m currently working at [wevolve](https://wevolve.dev) with .NET, React Native, Next.js and more.
+- 🌱 I’m currently learning Nodejs and Typescript
+
+
 <!--
 **macindex/macindex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
