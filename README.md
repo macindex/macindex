@@ -40,7 +40,7 @@ Below are some of my main skills.
 
 Web development:
 * HTML 5
-* CSS 3
+* Angular
 * Javascript
 * ReactJS
 * Typescript
