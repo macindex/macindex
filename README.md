@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Claudio, and my focus is to be a programmer that can code complex systems and beat good challenges.
+I'm claudio, I live in Recife-PE / Brazil. I work with IT for over 5 years. My specialty is the area of software development, from which I specialize in C #, Javascript and other languages..
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/)
