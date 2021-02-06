@@ -4,18 +4,13 @@
 
 I'm claudio, I live in Recife-PE / Brazil. I work with IT for over 5 years. My specialty is the area of software development, from which I specialize in C #, Javascript and other languages..
 
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/)
-
-[![GitHub followers](https://img.shields.io/github/followers/macindex.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/macindex?tab=followers)
-
-![macindex github stats](https://github-readme-stats.vercel.app/api?username=macindex&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)
-
-- 🔭 I’m currently working at [wevolve](https://wevolve.dev) with .NET, React Native, Next.js and more.
-- 🌱 I’m currently learning Nodejs and Typescript
-
-
-
+<table>
+  <tr>
+    <td>
+     <img width="350px" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/" />
+     <img width="430px" src="https://github-readme-stats.vercel.app/api?username=macindex&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515" />
+    </td>
+  </tr>
 
   </tr>
   <tr>
@@ -37,8 +32,10 @@ I'm claudio, I live in Recife-PE / Brazil. I work with IT for over 5 years. My s
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
+</table>
 
-<!--
+
+
 **macindex/macindex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -50,7 +47,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 # Profile resume
