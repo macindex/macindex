@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm claudio, I live in Recife-PE / Brazil. I work with IT for over 5 years. My specialty is the area of software development, from which I specialize in C #, Javascript and other languages..
+I'm claudio, I live in Olinda-PE / Brazil. I work with IT for over 5 years. My specialty is the area of software development, from which I specialize in C #, Javascript and other languages..
 
 <table>
   <tr>
